@@ -3,6 +3,7 @@
   "compilerOptions": {
     "baseUrl": ".",
     "paths": {
+      "@insomnia/app": ["packages/insomnia-app/app"],
       "@insomnia/*": ["packages/*/src"]
     },
     "jsx": "react",
